@@ -1,7 +1,0 @@
-streamlit
-feedparser
-pandas
-folium
-streamlit-folium
-geopy
-python-telegram-bot==13.15
