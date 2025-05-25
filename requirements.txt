@@ -1,0 +1,7 @@
+streamlit
+feedparser
+pandas
+folium
+streamlit-folium
+geopy
+requests
